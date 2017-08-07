@@ -65,4 +65,6 @@ button{ color: #fff;  background-color: #fff;    border-color: transparent !impo
 .header{    padding: 70px 0px 30px 0px;    text-align: center;}
 .white{    padding: 30px 0px 30px 0px;}
 .bottom{    text-align: center;}
-.well1{    background: rgba(150,212,207,0.7) !important;    margin: 0px 70px 30px 70px;    text-align: center;}
+.well{    background: rgba(150,212,207,0.7) !important;}
+.well1{ margin: 0px 70px 30px 70px;    text-align: center;}
+.well h3{ text-align: center;}
