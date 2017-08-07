@@ -13,6 +13,16 @@ body{
    border: none;
 }
 
+.navbar-default .navbar-nav .open .dropdown-menu>li>a, .navbar-default .navbar-nav .open .dropdown-menu {
+    background-color: #96D4CF;
+    color:#333;
+  }
+
+.navbar-default .dropdown-menu {
+     background-color: #96D4CF;
+     color:#333;
+}
+
 .dropdown-toggle .dropdown-menu {  position: static;  display: block;}
 
 .theme-showcase > p > .btn {  margin: 5px 0;}\
