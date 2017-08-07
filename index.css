@@ -23,9 +23,7 @@ body{
 
 .theme-showcase .navbar .container {  width: auto;}
 
-.navbar-brand {    color: #333 !important;}
-
-.navbar .activebar{    color: #333 !important;   }
+.navbar-brand, .navbar, .activebar{    color: #333 !important;}
 
 .activetab{    background-color: inherit;    color: #333 !important;     font-weight: 600;}
 
