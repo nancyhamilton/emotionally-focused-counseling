@@ -68,6 +68,6 @@ button{ color: #fff;  background-color: #fff;    border-color: transparent !impo
 .bottom{    text-align: center;}
 .well{    background: rgba(150,212,207,0.7) !important;}
 .well2{ margin: 0px 100px 30px 100px;    text-align: center !important;}
-.well2 h3, .well2 h4{ text-align: center !important;}
+.well2 h3, .well2 p{ text-align: center !important;}
 .well1{ margin: 0px 200px 30px 200px;}
 .well1 h3{ text-align: center;}
