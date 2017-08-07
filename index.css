@@ -6,7 +6,7 @@ body{
   padding: 0px 10% 0px 10%;
 }
 
-.hr{  height: 1px;
+hr{  height: 1px;
 color: #333;
 background-color: #333;
 border: none;}
