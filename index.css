@@ -5,7 +5,7 @@ body{
   line-height: 2 !important;
 }
 
-.navbar-default{  background-color: #96D4CF;  border-color: #96d4cf;}
+.navbar-default{  background-color: #96D4CF !important;  border-color: #96d4cf;}
 
 .navbar-default .navbar-brand .navbar-brand:hover{  background-color: #96d4cf;  color: #333333;}
 
@@ -19,7 +19,7 @@ body{
 
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a{ color: #333;}
 
-.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {  color: #ffffff;  background-color: #96d4cf;}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {  color: #ffffff;  background-color: #96d4cf !important;}
 
 .navbar-default .navbar-nav > li > .dropdown-menu > li.divider {  background-color: #96d4cf;}
 
