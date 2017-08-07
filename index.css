@@ -7,7 +7,7 @@ body{
 
 .navbar-default{  background-color: #96D4CF;  border-color: #96d4cf;}
 
-.navbar-default .navbar-brand .navbar-brand:hover{  color: #333333;}
+.navbar-default .navbar-brand .navbar-brand:hover{  background-color: #96d4cf;  color: #333333;}
 
 .navbar-default .navbar-text{ color:#333333;}
 
