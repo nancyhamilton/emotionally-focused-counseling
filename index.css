@@ -55,7 +55,7 @@ body{
 
 .activetab{    background-color: inherit;    color: #333 !important;     font-weight: 600;}
 
-button{    border-color: transparent !important;}
+button{ color: #fff;  background-color: #fff;    border-color: transparent !important;}
 
 .navbar-brand{  font-size: 10pt;}
 
