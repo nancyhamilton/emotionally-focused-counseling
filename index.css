@@ -70,7 +70,7 @@ button{ color: #fff;  background-color: #fff;    border-color: transparent !impo
 .jumbotron{    margin: 0px !important;    padding: 0px !important;}
 .header{    padding: 70px 0px 30px 0px; background:white !important;}
 .header h1{ text-align: center; font-size: 30pt;}
-.white{    padding: 30px 0px 30px 0px;}
+.white{    padding: 30px 0px 30px 0px; background:white !important;}
 .bottom{    text-align: center; font-size:5pt !important;  line-height: 7pt !important; background-color: #dcdcdc !important;}
 .well{    background: rgba(150,212,207,0.7) !important;}
 .well2{ margin: 0px 10% 30px 10%;    text-align: center !important;}
