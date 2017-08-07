@@ -7,6 +7,9 @@ body{
 .navbar-brand{
   font-size: 10pt;
 }
+.navbar, .navbar-toggle, .nav, .navbar-nav{
+  background: #96D4CF !important;
+}
 .jumbotron{
     margin: 0px !important;
     padding: 0px !important;
