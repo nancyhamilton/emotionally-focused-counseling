@@ -61,7 +61,7 @@ button{ color: #fff;  background-color: #fff;    border-color: transparent !impo
 
 .navbar-brand{  font-size: 10pt;}
 
-.jumbotron{    margin: 0px !important;    padding: 0px !important;}
+.jumbotron{    margin: 0px !important;    padding: 0px !important;  background:white !important;}
 .header{    padding: 70px 0px 30px 0px;    text-align: center;}
-.white{    padding: 30px 0px 30px 0px;    background:white !important;}
+.white{    padding: 30px 0px 30px 0px;}
 .bottom{    text-align: center;}.well1{    background: #96D4CF !important;    margin: 0px 70px 30px 70px;    text-align: center;}
