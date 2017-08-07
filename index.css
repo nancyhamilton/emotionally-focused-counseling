@@ -21,23 +21,16 @@ body{
 
 .navbar-brand {    color: #333 !important;}
 
-.activetab{    background-color: inherit;    color: white !important;     font-weight: 600;}
+.navbar .activebar{    color: #333 !important;   }
 
-.navbar .activebar{    color: #333 !important;   }
+.activetab{    background-color: inherit;    color: white !important;     font-weight: 600;}
 
 button{    border-color: transparent !important;}
 
-.navbar-brand{
-  font-size: 10pt;
-}
-.navbar, .navbar-toggle, .nav, .navbar-nav{
-  background: #96D4CF !important;
-  color: #333 !important;
-  border: none !important;
-}
-.navbar li{
-  color: #333 !important;
-}
+.navbar-brand{  font-size: 10pt;}
+
+.navbar, .navbar-toggle, .nav, .navbar-nav{ background: #96D4CF !important; color: #333 !important; border: none !important;}
+
 .jumbotron{
     margin: 0px !important;
     padding: 0px !important;
