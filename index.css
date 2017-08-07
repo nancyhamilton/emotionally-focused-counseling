@@ -10,6 +10,8 @@ color: #333;
 background-color: #333;
 border: none;}
 
+p{font-size: 12pt !important;}
+
 .navbar .activebar{    background-color: #96d4cf !important;   }
 
 .navbar{  background-color: #96D4CF !important;  border-color: #6ec4bd;}
