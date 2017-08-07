@@ -4,6 +4,21 @@ body{
   width:100% !important;
   line-height: 2 !important;
 }
+
+.dropdown-toggle .dropdown-menu {  position: static;  display: block;}
+
+.theme-showcase > p > .btn {  margin: 5px 0;}\
+
+.theme-showcase .navbar .container {  width: auto;}
+
+.navbar-brand {    color: #333 !important;}
+
+.activetab{    background-color: inherit;    color: white !important;     font-weight: 600;}
+
+.navbar .activebar{    color: #333 !important;   }
+
+button{    border-color: transparent !important;}
+
 .navbar-brand{
   font-size: 10pt;
 }
