@@ -8,7 +8,6 @@ body{
 .navbar .nav > li.dropdown.open.active > a:hover, 
 .navbar .nav > li.dropdown.open > a
 {
-   color: white !important;
    background-color: #96D4CF;
    border: none;
 }
@@ -18,14 +17,9 @@ body{
     color:#333;
   }
 
-.navbar-default .dropdown-menu {
-     background-color: #96D4CF;
-     color:#333;
-}
-
 .dropdown-toggle .dropdown-menu {  position: static;  display: block;}
 
-.theme-showcase > p > .btn {  margin: 5px 0;}\
+.theme-showcase > p > .btn {  margin: 5px 0;}
 
 .theme-showcase .navbar .container {  width: auto;}
 
