@@ -5,6 +5,14 @@ body{
   line-height: 2 !important;
 }
 
+.jumbotron{    margin: 0px !important;    padding: 0px !important;}
+
+.header{    padding: 70px 0px 30px 0px;    text-align: center;}
+
+.white{    padding: 30px 0px 30px 0px;    background:white !important;}
+
+.bottom{    text-align: center;}.well1{    background: #96D4CF !important;    margin: 0px 70px 30px 70px;    text-align: center;}
+
 .navbar .activebar{    background-color: #96d4cf !important;   }
 
 .navbar{  background-color: #96D4CF !important;  border-color: #96d4cf;}
@@ -60,28 +68,3 @@ button{ color: #fff;  background-color: #fff;    border-color: transparent !impo
 .navbar .navbar-toggle .icon-bar{  background-color: #333 !important;}
 
 .navbar-brand{  font-size: 10pt;}
-
-
-.jumbotron{
-    margin: 0px !important;
-    padding: 0px !important;
-}
-
-.header{
-    padding: 70px 0px 30px 0px;
-    text-align: center;
-}
-
-.white{
-    padding: 30px 0px 30px 0px;
-    background:white !important;
-}
-
-.bottom{
-    text-align: center;
-}
-.well1{
-    background: #96D4CF !important;
-    margin: 0px 70px 30px 70px;
-    text-align: center;
-}
