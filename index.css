@@ -3,7 +3,7 @@ body{
   color: #333 !important;
   width:100% !important;
   line-height: 2 !important;
-  padding: 0px 100px 0px 100px;
+  padding: 0px 10% 0px 10%;
 }
 
 .navbar .activebar{    background-color: #96d4cf !important;   }
@@ -68,7 +68,7 @@ button{ color: #fff;  background-color: #fff;    border-color: transparent !impo
 .white{    padding: 30px 0px 30px 0px;}
 .bottom{    text-align: center;}
 .well{    background: rgba(150,212,207,0.7) !important;}
-.well2{ margin: 0px 100px 30px 100px;    text-align: center !important;}
+.well2{ margin: 0px 10% 30px 10%;    text-align: center !important;}
 .well2 h3, .well2 p{ text-align: center !important;}
 .well1{ margin: 0px 200px 30px 200px;}
 .well1 h3{ text-align: center;}
