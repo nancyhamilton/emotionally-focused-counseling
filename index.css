@@ -10,6 +10,10 @@ body{
 .navbar, .navbar-toggle, .nav, .navbar-nav{
   background: #96D4CF !important;
   color: #333 !important;
+  border: none !important;
+}
+.navbar li{
+  color: #333 !important;
 }
 .jumbotron{
     margin: 0px !important;
