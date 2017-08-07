@@ -26,3 +26,6 @@ body{
 .bottom{
     text-align: center;
 }
+.well{
+    background: #96D4CF !important;
+}
