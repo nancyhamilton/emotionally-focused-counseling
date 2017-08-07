@@ -5,6 +5,14 @@ body{
   line-height: 2 !important;
 }
 
+.navbar .nav > li.dropdown.open.active > a:hover, 
+.navbar .nav > li.dropdown.open > a
+{
+   color: white !important;
+   background-color: #96D4CF;
+   border: none;
+}
+
 .dropdown-toggle .dropdown-menu {  position: static;  display: block;}
 
 .theme-showcase > p > .btn {  margin: 5px 0;}\
