@@ -11,6 +11,8 @@ body{
 
 .white{    padding: 30px 0px 30px 0px;    background:white !important;}
 
+.well1{ background-color: #96d4cf;}
+
 .bottom{    text-align: center;}.well1{    background: #96D4CF !important;    margin: 0px 70px 30px 70px;    text-align: center;}
 
 .navbar .activebar{    background-color: #96d4cf !important;   }
