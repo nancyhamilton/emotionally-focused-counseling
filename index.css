@@ -4,7 +4,9 @@ body{
   width:100% !important;
   line-height: 2 !important;
 }
-
+.navbar-brand{
+  font-size: 12pt;
+}
 .jumbotron{
     margin: 0px !important;
     padding: 0px !important;
