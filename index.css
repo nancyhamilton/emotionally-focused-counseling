@@ -9,6 +9,7 @@ body{
 }
 .navbar, .navbar-toggle, .nav, .navbar-nav{
   background: #96D4CF !important;
+  color: #333;
 }
 .jumbotron{
     margin: 0px !important;
@@ -18,7 +19,6 @@ body{
 .header{
     padding: 70px 0px 30px 0px;
     text-align: center;
-    background: #96D4CF !important;
 }
 
 .white{
