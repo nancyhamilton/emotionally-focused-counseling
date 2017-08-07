@@ -5,6 +5,8 @@ body{
   line-height: 2 !important;
 }
 
+.navbar .activebar{    background-color: #96d4cf !important;   }
+
 .navbar-default, .navbar{  background-color: #96D4CF !important;  border-color: #96d4cf;}
 
 .navbar-default .navbar-brand .navbar-brand:hover{  background-color: #96d4cf;  color: #333333;}
