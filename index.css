@@ -57,6 +57,8 @@ body{
 
 button{ color: #fff;  background-color: #fff;    border-color: transparent !important;}
 
+.navbar .btn-navbar{  background: white;}
+
 .navbar-brand{  font-size: 10pt;}
 
 
