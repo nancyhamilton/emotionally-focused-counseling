@@ -6,6 +6,8 @@ body{
   padding: 0px 10% 0px 10%;
 }
 
+.hr{  border-color: #333; background-color: #333;}
+
 .navbar .activebar{    background-color: #96d4cf !important;   }
 
 .navbar{  background-color: #96D4CF !important;  border-color: #96d4cf;}
