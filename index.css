@@ -57,7 +57,7 @@ border: none;}
 
 .theme-showcase .navbar .container {  width: auto;}
 
-.navbar-brand, .navbar, .activebar{    color: #333 !important;}
+.navbar-brand, .navbar{    color: #333 !important;}
 
 .activetab{    background-color: inherit;    color: white !important;     font-weight: 600;}
 
