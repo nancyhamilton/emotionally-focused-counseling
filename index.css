@@ -1,0 +1,25 @@
+body{
+  font-family: Arial !important;
+  color: #333 !important;
+  width:100% !important;
+  line-height: 2 !important;
+}
+
+.jumbotron{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.header{
+    padding: 70px 0px 30px 0px;
+    text-align: center;
+}
+
+.white{
+    padding: 30px 0px 30px 0px;
+    background:white !important;
+}
+
+.bottom{
+    text-align: center;
+}
