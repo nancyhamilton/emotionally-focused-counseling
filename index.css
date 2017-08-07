@@ -53,7 +53,7 @@ body{
 
 .navbar-brand, .navbar, .activebar{    color: #333 !important;}
 
-.activetab{    background-color: inherit;    color: #white !important;     font-weight: 600;}
+.activetab{    background-color: inherit;    color: white !important;     font-weight: 600;}
 
 button{ color: #fff;  background-color: #fff;    border-color: transparent !important;}
 
