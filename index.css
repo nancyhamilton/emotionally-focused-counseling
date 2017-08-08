@@ -14,7 +14,7 @@ p{font-size: 12pt !important;}
 
 .center{ text-align: center !important;}
 
-.thumbnail{ border: none !important;}
+.thumbnail{ border: 0 none !important; box-shadow: none;}
 
 .navbar .activebar{    background-color: #96d4cf !important;   }
 
