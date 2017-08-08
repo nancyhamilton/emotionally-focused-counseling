@@ -12,7 +12,7 @@ border: none;}
 
 p{font-size: 12pt !important;}
 
-.center{ text-align: center !important;}
+.center{ text-align: center !important; padding: 10px 0px 10px 0px;}
 
 .thumbnail{ border: 0 none !important; box-shadow: none; background: transparent;}
 
