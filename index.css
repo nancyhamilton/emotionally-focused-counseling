@@ -14,6 +14,8 @@ p{font-size: 12pt !important;}
 
 .center{ text-align: center !important;}
 
+.thumbnail{ border: none !important;}
+
 .navbar .activebar{    background-color: #96d4cf !important;   }
 
 .navbar{  background-color: #96D4CF !important;  border-color: #6ec4bd;}
