@@ -12,6 +12,8 @@ border: none;}
 
 p{font-size: 12pt !important;}
 
+.servicepic{ padding: 0px !important;}
+
 .center{ text-align: center !important; padding: 20px 0px 20px 0px;}
 
 .thumbnail{ border: 0 none !important; border-radius: 0 !important; box-shadow: none !important; background: transparent !important;}
