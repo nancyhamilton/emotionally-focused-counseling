@@ -14,7 +14,7 @@ p{font-size: 12pt !important;}
 
 .center{ text-align: center !important; padding: 10px 0px 10px 0px;}
 
-.thumbnail{ border: 0 none !important; box-shadow: none; background: transparent;}
+.thumbnail{ border: 0 none !important; border-radius: 0 !important; box-shadow: none !important; background: transparent !important;}
 
 .navbar .activebar{    background-color: #96d4cf !important;   }
 
