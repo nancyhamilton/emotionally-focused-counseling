@@ -24,7 +24,7 @@ border: none;}
     position:absolute;
 }
 
-p{font-size: 12pt !important;}
+p{font-size: 13pt !important;}
 
 .center{ text-align: center !important; padding: 20px 0px 20px 0px;}
 
@@ -84,10 +84,10 @@ button{ color: #fff;  background-color: #fff;    border-color: transparent !impo
 
 .navbar .navbar-toggle .icon-bar{  background-color: #333 !important;}
 
-.navbar-brand{  font-size: 10pt;}
+.navbar-brand{  font-size: 14pt;}
 
 .jumbotron{    margin: 0px !important;    padding: 0px !important;}
-.header{    padding: 70px 0px 30px 0px; background:white !important;}
+.header{    padding: 70px 0px 30px 0px; background:white !important; font-size: 36pt;}
 .header h1{ text-align: center; font-size: 30pt;}
 .white{    padding: 30px 10% 20px 10%; background:white !important;}
 .bottom{bottom: 0;    width: 100%;    position: absolute; padding: 20px 0 20px 0;}
