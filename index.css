@@ -82,7 +82,7 @@ p{
   box-shadow: none !important; 
   background: transparent !important;
 }
-.navbar .activebar{    background-color: #7dd5d0 !important;   }
+.navbar .activebar{    background-color: #81d8d0 !important;   }
 .navbar{  background-color: #7dd5d0 !important;  border-color: #5dcbc5;}
 .navbar .navbar-brand .navbar-brand:hover{  background-color: #7dd5d0;  color: #333333;}
 .navbar .navbar-text{ color:#333333;}
