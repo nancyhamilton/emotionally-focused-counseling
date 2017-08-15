@@ -82,59 +82,30 @@ p{
   box-shadow: none !important; 
   background: transparent !important;
 }
-
-.navbar .activebar{    background-color: #81D8D0 !important;   }
-
-.navbar{  background-color: #81D8D0 !important;  border-color: #5dcbc5;}
-
-.navbar .navbar-brand .navbar-brand:hover{  background-color: #81D8D0;  color: #333333;}
-
+.navbar .activebar{    background-color: #7dd5d0 !important;   }
+.navbar{  background-color: #7dd5d0 !important;  border-color: #5dcbc5;}
+.navbar .navbar-brand .navbar-brand:hover{  background-color: #7dd5d0;  color: #333333;}
 .navbar .navbar-text{ color:#333333;}
-
 .navbar .navbar-nav > li > a{ color: #333333;}
-
-.navbar .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {  background-color: #81D8D0;  color: white;}
-
-.navbar .navbar-nav > li > .dropdown-menu{  background-color: #81D8D0;}
-
+.navbar .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {  background-color: #7dd5d0;  color: white;}
+.navbar .navbar-nav > li > .dropdown-menu{  background-color: #7dd5d0;}
 .navbar .navbar-nav > li > .dropdown-menu > li > a{ color: #333;}
-
-.navbar .navbar-nav > li > .dropdown-menu > li > a:hover,.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {  color: #ffffff;  background-color: #81D8D0 !important;}
-
-.navbar .navbar-nav .open .dropdown-menu > .active > a,.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,.navbar .navbar-nav .open .dropdown-menu > .active > a:focus {  color: #ffffff;  background-color: #81D8D0;}
-
-.navbar .navbar-nav > .active > a, .navbar .navbar-nav > .active > a:hover,.navbar .navbar-nav > .active > a:focus {  color: #ffffff;  background-color: #81D8D0;}
-
-.navbar .navbar-toggle {  border-color: #81D8D0;}
-
-.navbar .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {  background-color: #81D8D0;}
-
+.navbar .navbar-nav > li > .dropdown-menu > li > a:hover,.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {  color: #ffffff;  background-color: #7dd5d0 !important;}
+.navbar .navbar-nav .open .dropdown-menu > .active > a,.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,.navbar .navbar-nav .open .dropdown-menu > .active > a:focus {  color: #ffffff;  background-color: #7dd5d0;}
+.navbar .navbar-nav > .active > a, .navbar .navbar-nav > .active > a:hover,.navbar .navbar-nav > .active > a:focus {  color: #ffffff;  background-color: #7dd5d0;}
+.navbar .navbar-toggle {  border-color: #7dd5d0;}
+.navbar .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {  background-color: #7dd5d0;}
 .navbar .navbar-toggle .icon-bar {  background-color: #333333;}
-
 .navbar .navbar-collapse,.navbar-default .navbar-form {  border-color: #333333;}
-
 .navbar .navbar-link {  color: #333333;}
-
 .navbar .navbar-link:hover {  color: #ffffff;}
-
-@media (max-width: 767px) {  .navbar .navbar-nav .open .dropdown-menu > li > a {    color: #333333;  }
-  
-.navbar .navbar-nav .open .dropdown-menu > li > a:hover,  .navbar .navbar-nav .open .dropdown-menu > li > a:focus {    color: #ffffff;  }
-
-.navbar .navbar-nav .open .dropdown-menu > .active > a,  .navbar .navbar-nav .open .dropdown-menu > .active > a:hover,  .navbar .navbar-nav .open .dropdown-menu > .active > a:focus {    color: #ffffff;    background-color: #81D8D0;  }}
-
+@media (max-width: 767px) {  .navbar .navbar-nav .open .dropdown-menu > li > a {    color: #333333;  }  .navbar .navbar-nav .open .dropdown-menu > li > a:hover,  .navbar .navbar-nav .open .dropdown-menu > li > a:focus {    color: #ffffff;  }
+.navbar .navbar-nav .open .dropdown-menu > .active > a,  .navbar .navbar-nav .open .dropdown-menu > .active > a:hover,  .navbar .navbar-nav .open .dropdown-menu > .active > a:focus {    color: #ffffff;    background-color: #7dd5d0;  }}
 .dropdown-toggle .dropdown-menu {  position: static;  display: block;}
-
 .theme-showcase > p > .btn {  margin: 5px 0;}
-
 .theme-showcase .navbar .container {  width: auto;}
-
 .navbar-brand, .navbar{    color: #333 !important;}
-
 .activetab{    background-color: inherit;    color: white !important;     font-weight: 600;}
-
 button{ color: #fff;  background-color: #fff;    border-color: transparent !important;}
-
 .navbar .navbar-toggle .icon-bar{  background-color: #333 !important;}
-
 .navbar-brand{  font-size: 12pt;}
