@@ -5,6 +5,10 @@ body{
   line-height: 2 !important;
 }
 
+.thanks{
+  padding-top: 20px;
+}
+
 hr{  height: 1px;
 color: #333;
 background-color: #333;
